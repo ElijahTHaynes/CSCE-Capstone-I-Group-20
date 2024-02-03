@@ -7,3 +7,4 @@ Group 20:
 - Elijah Haynes
 - Luis Molina
 - Raul Martinez
+- Syed Uddin
